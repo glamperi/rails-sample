@@ -1,0 +1,7 @@
+schemaVersion: 2.2.0
+metadata:
+  name: rails-sample
+components:
+  - name: devtools
+    container:
+      image: quay.io/mloriedo/rails-blog-cde:latest
